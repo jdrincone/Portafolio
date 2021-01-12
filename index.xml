@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portafolio de Proyectos en Ciencia de Datos e Investigación on David Rincón</title>
+    <link>https://jdrincone.github.io/Portafolio/</link>
+    <description>Recent content in Portafolio de Proyectos en Ciencia de Datos e Investigación on David Rincón</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://jdrincone.github.io/Portafolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto 5. Análisis de mercado inmobiliario: Segunda parte.</title>
+      <link>https://jdrincone.github.io/Portafolio/post/proyect-8/</link>
+      <pubDate>Mon, 11 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://jdrincone.github.io/Portafolio/post/proyect-8/</guid>
+      <description>Este proyecto se enfocará en el análisis de datos de un dataset de la página web Properati, el cual presenta información sobre propiedades en venta en sectores cercanos a la capital Argentina, Buenos Aires. Se aplica ingeniería de Features y Modelos Avanzados (Ensambles - bagging - random forest, boosting, VSM, Random Search, XGBoost) para desarrollar con mayor profundidad un modelo de Machine Learning.
+Esta es la segunda parte, de un proyecto publicado en una entrada anterior</description>
+    </item>
+    
+    <item>
+      <title>Competencia: 2020 Kaggle Machine Learning &amp; Data Science Survey</title>
+      <link>https://jdrincone.github.io/Portafolio/post/proyect-4/</link>
+      <pubDate>Wed, 06 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://jdrincone.github.io/Portafolio/post/proyect-4/</guid>
+      <description>Este año, al igual que en 2017, 2018 y 2019, kaggle realiza una encuesta en toda la industria que presenta una visión verdaderamente completa del estado de la ciencia de datos y el aprendizaje automático. Dichos datos son liberados para que el publico en general los explore aprenda de ellos y participe en el reto. Hay mucho que explorar aquí. Los resultados incluyen cifras sin procesar sobre quién está trabajando con datos, qué está sucediendo con el aprendizaje automático en diferentes industrias y las mejores formas para que los nuevos científicos de datos ingresen al campo.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 4: Recetario (webscraping)</title>
+      <link>https://jdrincone.github.io/Portafolio/post/proyect-5/</link>
+      <pubDate>Sun, 20 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jdrincone.github.io/Portafolio/post/proyect-5/</guid>
+      <description>Como objetivo de trabajo se propone crear una base de datos de diferentes recetas de cocina. Explorando distintas plataformas de recetas se encontró que quehayenlanevera posee la información suficiente para realizar un proceso de webscraping, para luego realizar análisis y exploración de datos y cumplir el objetivo impuesto.
+Se extraer un listado de 45 recetas por tipo cada tipo (i.e., arroces, carnes, pastas), incluyendo título, tiempo de preparación, dificultad, categoría de cocina, ingredientes y el enlace a las instrucciones de preparación, en total se formo una colección de más de 2000 recetas.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 3. Análisis de mercado inmobiliario (Apache Spark)</title>
+      <link>https://jdrincone.github.io/Portafolio/post/proyect-3/</link>
+      <pubDate>Sun, 25 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jdrincone.github.io/Portafolio/post/proyect-3/</guid>
+      <description>Este proyecto se enfocará en el análisis de datos de un dataset de la página web Properati, el cual presenta información sobre propiedades en venta en sectores cercanos a la capital Argentina, Buenos Aires. Con ellos se realizará un análisis explotoratorio de los datos (EDA) para luego entrenar un regresor que nos permita predecir el precio de un inmueble. Todo esto lo realizaremos con la tecnología en Big Data: Apache Spark.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 2. Análisis de mercado inmobiliario: Primera parte.</title>
+      <link>https://jdrincone.github.io/Portafolio/post/proyect-2/</link>
+      <pubDate>Wed, 14 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jdrincone.github.io/Portafolio/post/proyect-2/</guid>
+      <description>Este proyecto se enfocará en el análisis de datos de un dataset de la página web Properati, el cual presenta información sobre propiedades en venta en sectores cercanos a la capital Argentina, Buenos Aires. Con ellos se realizará un análisis explotoratorio de los datos (EDA) para luego entrenar un regresor que nos permita predecir el precio de un inmueble.
+Este proyecto se realizará en dos partes, la primera estará posteada en esta entrada y exploraremos modelos sencillos de Machine learning para lograr nuestro objetivo.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 1. Matemáticos en la  historia: Un dataset de Wikipedia (EDA)</title>
+      <link>https://jdrincone.github.io/Portafolio/post/proyect-1/</link>
+      <pubDate>Sat, 10 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jdrincone.github.io/Portafolio/post/proyect-1/</guid>
+      <description>¿Qué distingue a los grandes matemáticos de los buenos, los recordados de los olvidados?&amp;hellip; Con estas palabras inicia Joseph Philleo retando a la comunidad de kaggle encontrar los atributos más sobresalientes que han tenido los matemático de los cuales se posee información en Wikipedia para ser recordado a través de la historia. A partir del dataset Mathematicians of Wikipedia donde se compilan la información de más de 8500 matemáticos en toda la historia de la humanidad.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto de Investigación: Acoplamiento espín orbita y campos de gauge sintéticos</title>
+      <link>https://jdrincone.github.io/Portafolio/post/proyect-6/</link>
+      <pubDate>Thu, 20 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jdrincone.github.io/Portafolio/post/proyect-6/</guid>
+      <description>Durante las últimas décadas el control y la manipulación de sistemas cuánticos, ha venido ganando importancia, ya que desde el punto de vista tecnológico ofrece grandes avances y una amplia gama de aplicaciones. Existen una gran variedad de sistemas que en principio podrían ser herramientas cuánticas, en particular, los gases cuánticos o ultrafríos toman una gran relevancia 1–3, puesto que éstos se destacan en la versatilidad y control fino de los parámetros externos, y por tanto de las propiedades de las muestras.</description>
+    </item>
+    
+    <item>
+      <title>Tesis: Inestabilidades en sistemas acústicos y ópticos</title>
+      <link>https://jdrincone.github.io/Portafolio/post/proyect-7/</link>
+      <pubDate>Fri, 23 Aug 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://jdrincone.github.io/Portafolio/post/proyect-7/</guid>
+      <description>En este trabajo se muestra que la radiación de Hawking resonante en la configuración de láser de agujeros negros (BHL) es producto de un conjunto discreto de inestabilidades, tanto si el sistema es un condensado de Bose-Einstein (BECs) donde la radiación son fonones, como si el sistema son pulsos de luz propagándose en una fibra óptica donde la radiación son fotones. Para obtener este resultado, describimos las propiedades de un campo cuántico al propagarse en un espacio-tiempo curvo como el generado por un agujero negro.</description>
+    </item>
+    
+    <item>
+      <title>Publicaciones</title>
+      <link>https://jdrincone.github.io/Portafolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdrincone.github.io/Portafolio/contact/</guid>
+      <description>3. Instabilities in an Optical Black‐Hole Laser The Hamiltonian of optical fields in a nonlinear dispersive fiber is studied. Quantum field fluctuations are spontaneously created close to an optical event horizon through the analog Hawking effect. The simplest model is considered for an optical black‐hole laser, where the Hawking radiation is produced and amplified inside a cavity formed by two horizons: a black hole and a white hole. It is found that resonant Hawking radiation originates from a discrete set of instabilities and tunnels out of the horizons.</description>
+    </item>
+    
+  </channel>
+</rss>
